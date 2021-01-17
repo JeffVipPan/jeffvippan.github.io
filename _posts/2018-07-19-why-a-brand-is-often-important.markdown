@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  how to take smart notes
+title:  Why a brand is often important
 date:   2021-01-17 15:01:35 +0300
 image:  03.jpg
 tags:   Style
