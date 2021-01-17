@@ -5,29 +5,16 @@ date:   2018-07-19 15:01:35 +0300
 image:  03.jpg
 tags:   Style
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
+## 记笔记的方法：
 
-## Are you crazy? I can't swallow that.
+1. 瞬时笔记：随时准备记录下idea, 不要在意细节，这样会不愿意动笔，它只是用来提醒你想起它们来。最好一天之内可以整理它们。
+2. 文献笔记：对读过的文献做笔记，简短，不要照搬，用自己的话。复述代表着真的理解。
+3. 永久笔记：回顾1，2，在忘掉之前。重点不是收集，而是得到启发。这时的笔记应该是像写个别人看的一样，用整句话解释来源，参考了什么，用词准确，简单，清晰。可以扔掉第1步的笔记，保留2，3.
+4. 整理2，3的笔记：1）存档，2）添加相关的链接，3）确保可以retrieve, 无论是索引还是之后做了主题性的总结。
+5. 从已有的笔记中整理主题，问题，看看缺少什么，继续挑战或者强化自己的观点。整理一下，看看缺什么，什么是多余的，不要等到万事俱备再行动，而是不断验证你的观点，给自己足够的时间回顾，继续阅读，做笔记，完善观点，改善论述和结构。
+6. 把笔记转写成手稿，而不是照搬，这是再理解的方式。
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
-
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-
-### Why not indeed!
-
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
-
-* Shinier than yours, meatbag.
-* This is the worst part. The calm before the battle.
-* Ooh, name it after me!
-
-Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we walk! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Ow, my spirit! Who's brave enough to fly into something we all keep calling a death sphere?
-
-Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
 
 ![]({{ site.baseurl }}/images/07.jpg)
 *Minimalism*
