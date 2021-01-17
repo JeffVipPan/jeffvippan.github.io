@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Why a brand is often important
+title:  How to take smart notes
 date:   2021-01-17 15:01:35 +0300
-image:  03.jpg
-tags:   Style
+image:  07.jpg
 ---
 
 ## 记笔记的方法：
@@ -15,9 +14,6 @@ tags:   Style
 5. 从已有的笔记中整理主题，问题，看看缺少什么，继续挑战或者强化自己的观点。整理一下，看看缺什么，什么是多余的，不要等到万事俱备再行动，而是不断验证你的观点，给自己足够的时间回顾，继续阅读，做笔记，完善观点，改善论述和结构。
 6. 把笔记转写成手稿，而不是照搬，这是再理解的方式。
 
-
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
 
 ### 一些hint:
 
