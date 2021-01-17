@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: 碎碎念
 permalink: /styleguide/
 image: 08.jpg
 ---
