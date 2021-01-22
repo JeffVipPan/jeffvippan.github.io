@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
 ---
 我叫潘峰(JeffPan), 如果你在其他平台上看到这个昵称，并且头像是呐喊的话，那么大概率是我。95 年出生。爱编程，电影，音乐，阅读以及一切人类通过创造而产生的知识成果。
 
