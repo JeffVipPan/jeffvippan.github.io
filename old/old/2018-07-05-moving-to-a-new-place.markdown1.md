@@ -1,4 +1,8 @@
 ---
+layout: post
+date:   2018-07-05 15:01:35 +0300
+image:  05.jpg
+tags:   Home
 ---
 # 自说自话
 
