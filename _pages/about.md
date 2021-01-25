@@ -39,7 +39,7 @@ iMessage: [jeffpanvip@icloud.com][iMessage]
 
 [gmail]: mailto:jeffpan@gamil.com
 
-[iMessage]: imessageto:jeffpanvip@icloud.com
+[iMessage]: imessage:jeffpanvip@icloud.com
 
 [GitHub]: https://github.com/JeffVipPan
 
