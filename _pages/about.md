@@ -21,3 +21,29 @@ image: 21.jpg
 让子弹飞一会儿。
 
 失败不是成功之母， 高质量的复盘才是。
+
+
+---
+豆瓣：[Jeffpan] [豆瓣]  
+
+instagram: [jeffvippan] [instagram] 
+
+GitHub: [JeffVipPan] [GitHub]
+
+
+Email: [jeffpan@gamil.com][gmail]
+
+iMessage: [jeffpanvip@icloud.com][iMessage]
+
+
+
+[gmail]: mailto:jeffpan@gamil.com
+
+[iMessage]: imessageto:jeffpanvip@icloud.com
+
+[GitHub]: https://github.com/JeffVipPan
+
+[instagram]: https://www.instagram.com/jeffvippan/
+
+[豆瓣]: https://www.douban.com/people/82911878/
+
