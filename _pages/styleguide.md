@@ -2,7 +2,6 @@
 layout: page
 title: SELF TALKING
 permalink: /selfTalking/
-image: 08.jpg
 ---
 # 自说自话
 
@@ -44,6 +43,9 @@ image: 08.jpg
   ![](https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0k/yb/xk_237240.jpg@596w_1l.jpg)
   ![](https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0k/yb/vx_237050.jpg@596w_1l.jpg)
   ![](https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0k/yb/5p_236981.jpg@596w_1l.jpg)
+
+  
+* 百度内部wiki真的是宝藏，只要善用搜索，总会发现令人惊喜的文档 -2020.10.20
 
 
 * 主板沪指拼团ing...拼到3500，N人团，不限量 -2020.10.18
