@@ -7,91 +7,32 @@ image: 08.jpg
 # 自说自话
 
 ***
+* 主板沪指拼团ing...拼到3980，N人团，不限量 -2020-10-18 
 
 
+* 曾经有段时间微软已经被大家所遗忘了，大家已经认为它消失了 ，它已经是一个被替代的可有可无的公司了 ，但是微软重新会崛起，因为它的技术储备在那里 ，今天的百度，仍然是我看到的中国的互联网公司乃至世界互联网公司里面 ，最拥有技术储备的公司，还是拥有长期竞争力的 2020-10-05
 
+* 唯有知识能让我们免于平庸。
+  ![](https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0k/jk/74_343427.jpg@596w_1l.jpg)
+* 二十年前的今天，2000年4月13日，新浪 Sina 在美国纳斯达克上市，成为中国第一家上市的互联网公司，算是开启了一个时代。「大浪逐新，与时代同行」这句不错。-2020-06-05 （新浪二十年）
 
-### Headings by default:
+* 2010年3月获得天使投资人王江的种子轮投资后，王兴在3月4日正式推出了美团 @王兴 一时兴起听了一曲陈奕迅的《十年》。-2020-03-05 （美团十年）
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+* 愿你在这最漫长的夜里 ，消却掉一年所有的忧愁 -2019.12.22 冬至
+  
+* 消费者的诉求是：多，快，好，省。刚好对应四家电商平台：阿里，京东，网易严选，拼多多。-2019.9.2
+  
+* 我听闻最美的故事，是公主死去了，屠龙的少年还在燃烧。 火苗再小，你都要反复的点燃。 所谓热血的少年，青涩的爱恋，死亡与梦之约。 这么好的故事。 你可别演砸了。 -2019.7.21
+* 问：是态度问题还是能力问题？答：是长期态度不端正导致的能力欠缺。-2019.7.20
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+* 独立精神一旦放射出来，形之于立身，就是至大至刚之气；形于知识方面，就是独立思想，独立的判断；形之于言行，就是独立的言论，与特立独行。（殷海光《自由人的独立精神》）-2019.7.17
 
-***
+* 那个静悄悄地躺在微信右上角的搜索符号，有多恐怖。
+  你用来搜好友、搜朋友圈、搜文章的那个微信搜索，搜网页一样好使，一个不经意你就用了，再一个不经意你可能就习惯了。
+  这种“潜移默化”是一种“硬”增长，是一种“绝对”。这是关系链被微信强力锁定的副产品，是笼罩在百度和头条头上的“命运”。-2019.7.9
 
-### Lists
+* 百度前副总裁俞军当年求职简历--“本人热爱搜索成痴，只要是做搜索，不计较地域（无论天南海北，刀山火海），不计较职位（无论高低贵贱一线二线，与搜索相关即可），不计较薪水（可维持个人当地衣食住行即是底线），不计较工作强度（反正已习惯了每日14小时工作制).我也还是这么喜欢做搜索，希望可以在搜索领域继续深耕。
 
-#### Ordered list example:
+* 曾经有人问金庸：“人生应如何度过？”他答：“大闹一场，悄然离去。” 斯人已逝，幽思长存。生者不如干票大的，这也许是最好的怀念了吧。-2019.7.9
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-***
-
-### Images
-
-![avatar](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fa4.att.hudong.com%2F27%2F67%2F01300000921826141299672233506.jpg&refer=http%3A%2F%2Fa4.att.hudong.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1614137203&t=1fa93cf236e2a69382adba02ffcf650b)
-![avatar](https://i.loli.net/2021/01/25/BVFwJKn86ZOlzg7.jpg)
-
-*Backyard*
-
-***
+* 教父》里有这样的人生观：第一步要努力实现自我价值，第二步要全力照顾好家人，第三步要尽可能帮助善良的人，第四步为族群发声，第五步为国家争荣誉。事实上作为男人，前两步成功，人生已算得上圆满，做到第三步堪称伟大，而随意颠倒次序的那些人，一般不值得信任 -2019.7.7
