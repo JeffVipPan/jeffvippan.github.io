@@ -8,6 +8,9 @@ image: 08.jpg
 
 ***
 
+
+
+
 ### Headings by default:
 
 # This is the default title
@@ -86,7 +89,7 @@ image: 08.jpg
 
 ### Images
 
-![]({{site.baseurl}}/images/09.jpg)
+![](http://jeffpan.test.upcdn.net/uPic/tAJlS3.png)
 *Backyard*
 
 ***
