@@ -36,7 +36,6 @@ Email: [jeffpan@gamil.com][gmail]
 iMessage: [jeffpanvip@icloud.com][iMessage]
 
 
-
 [gmail]: mailto:jeffpan@gamil.com
 
 [iMessage]: imessage:jeffpanvip@icloud.com
