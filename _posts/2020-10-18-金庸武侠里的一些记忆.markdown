@@ -2,7 +2,7 @@
 layout: post
 title:  "金庸武侠里的一些记忆"
 date:   2020-10-18 21:05:55 +0300
-image:  23.png
+image:  23.jpg
 ---
 
 ###  红梅绿柳

@@ -10,10 +10,10 @@ image:  24.png
 <iframe src="//player.bilibili.com/player.html?aid=497651138&bvid=BV1BK411L7DJ&cid=177974677&page=1" frameborder="0" allowfullscreen></iframe>
 *我们为什么要读书?*
 
- [我们为什么要读书][我们为什么要读书]
+ [BiliBili链接地址][我们为什么要读书]
+
 
 以下是演讲全文
-
 ---
 
 同学们从小到大应该经常听说要读书，那我想问问各位，我们为什么要读书呢？
