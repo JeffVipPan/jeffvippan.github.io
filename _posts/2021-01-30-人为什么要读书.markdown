@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "人为什么要读书"
-date:   2021-01-23 18:05:55 +0300
+date:   2021-01-30 18:05:55 +0300
 image:  24.png
 ---
 罗翔老师的"我们为什么要读书?"，这个视频是百看不厌。
 
 
-<iframe src="//player.bilibili.com/player.html?aid=497651138&bvid=BV1BK411L7DJ&cid=177974677&page=1" scrolling="no" border="0"  framespacing="0" frameborder="0" allowfullscreen> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=497651138&bvid=BV1BK411L7DJ&cid=177974677&page=1" frameborder="0" allowfullscreen></iframe>
+
 *我们为什么要读书?*
 
 以下是演讲全文
