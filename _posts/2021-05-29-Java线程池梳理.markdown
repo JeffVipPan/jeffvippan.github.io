@@ -119,7 +119,7 @@ public void execute(Runnable command) {
         reject(command);
 }
 ```
-![](https://ftp.bmp.ovh/imgs/2021/06/947bdf736c038b34.png)
+![](https://ftp.bmp.ovh/imgs/2021/06/c91da1d6cdb90bc1.png)
 
 ## **2.2 新增线程**
 
