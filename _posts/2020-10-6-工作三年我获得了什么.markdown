@@ -2,7 +2,7 @@
 layout: post
 title:  "工作三年我获得了什么"
 date:   2020-10-06 18:05:55 +0300
-image:  25.png
+image:  29.jpg
 ---
 
 
